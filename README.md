@@ -1,9 +1,4 @@
 # Blinkit Sales Performance Analysis
-
-\<p align="center"\>
-\<img src="blinkit\_logo.png" alt="Blinkit Logo" width="200"/\>
-\</p\>
-
 This repository contains a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The objective of this project is to identify key insights and opportunities for optimization using various Key Performance Indicators (KPIs) and data visualizations.
 
 ## Table of Contents
